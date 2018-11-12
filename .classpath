@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BasicJava/src"/>
+	<classpathentry kind="src" path="BeginnerJava/src"/>
+	<classpathentry kind="src" path="DataType/src"/>
+	<classpathentry kind="src" path="My_Piano/src"/>
+	<classpathentry kind="src" path="OOP/src"/>
+	<classpathentry kind="src" path="DataStructures"/>
+	<classpathentry kind="lib" path="BasicJava/dist/BasicJava.jar"/>
+	<classpathentry kind="output" path="BasicJava/build/classes"/>
+</classpath>
